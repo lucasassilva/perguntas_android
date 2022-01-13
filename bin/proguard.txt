@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:7
+-keep class TerceiroAPPAndroid.pack.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:14
+-keep class TerceiroAPPAndroid.pack.NewActivity2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class TerceiroAPPAndroid.pack.NewActivity3 { <init>(...); }
+

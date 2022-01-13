@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+	android:id="@+id/widget0"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<TextView
+	android:id="@+id/widget36"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Quantas copas o Brasil conquistou ?"
+	android:layout_x="42dp"
+	android:layout_y="28dp" />
+<CheckBox
+	android:id="@+id/quest1"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Quatro"
+	android:layout_x="39dp"
+	android:layout_y="101dp" />
+<CheckBox
+	android:id="@+id/quest2"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Tr&#234;s"
+	android:layout_x="38dp"
+	android:layout_y="163dp" />
+<CheckBox
+	android:id="@+id/quest3"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="Cinco"
+	android:layout_x="38dp"
+	android:layout_y="229dp" />
+<Button
+	android:id="@+id/proximo"
+	android:layout_width="82dp"
+	android:layout_height="wrap_content"
+	android:text="Proximo"
+	android:layout_x="128dp"
+	android:layout_y="337dp" />
+</AbsoluteLayout>
+
